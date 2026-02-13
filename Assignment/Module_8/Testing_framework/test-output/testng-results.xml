@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-13T15:32:55 IST" name="Default suite" finished-at="2026-02-13T15:33:01 IST" duration-ms="6429">
+    <groups>
+    </groups>
+    <test started-at="2026-02-13T15:32:55 IST" name="Default test" finished-at="2026-02-13T15:33:01 IST" duration-ms="6429">
+      <class name="com.module_8.Testng_simplewebdriver">
+        <test-method is-config="true" signature="open_Browser()[pri:0, instance:com.module_8.Testng_simplewebdriver@229f66ed]" started-at="2026-02-13T15:32:55 IST" name="open_Browser" finished-at="2026-02-13T15:32:58 IST" duration-ms="2991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_Browser -->
+        <test-method signature="open_Website()[pri:0, instance:com.module_8.Testng_simplewebdriver@229f66ed]" started-at="2026-02-13T15:32:58 IST" name="open_Website" finished-at="2026-02-13T15:33:01 IST" duration-ms="3193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_Website -->
+        <test-method is-config="true" signature="close_Broser()[pri:0, instance:com.module_8.Testng_simplewebdriver@229f66ed]" started-at="2026-02-13T15:33:01 IST" name="close_Broser" finished-at="2026-02-13T15:33:01 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Broser -->
+      </class> <!-- com.module_8.Testng_simplewebdriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
